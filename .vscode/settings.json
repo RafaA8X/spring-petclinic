@@ -6,5 +6,5 @@
       "**/.settings": true,
       "**/.factorypath": true
 }
-"editor.autoSave": "on"
+"editor.autoSave" "on"
 }
